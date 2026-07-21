@@ -2144,42 +2144,42 @@
    "en": {
     "question": "How should we send money to the Central Organization?",
     "applies_to": "All stages.",
-    "short_answer": "All contributions and subscriptions may be sent by bank transfer, by UPI, or by cheque payable to “Akhil Bharat Vivekananda Yuva Mahamandal” at Kolkata. Always send an e-mail at the same time, giving your full name, your full address with PIN code, your PAN number, and the purpose of the payment – otherwise the money cannot be accounted for, nor a receipt made.",
+    "short_answer": "All contributions and subscriptions may be sent by bank transfer, by UPI, or by cheque payable to “Akhil Bharat Vivekananda Yuva Mahamandal” at Kolkata. Always send an e-mail at the same time, giving your full name, your full address and PIN code, your PAN or Aadhaar number, and the purpose of the payment – otherwise the money cannot be accounted for, nor a receipt made. If you pay through this app and provide all your details on the payment page, no separate e-mail is needed.",
     "explanation": "Account holder: Akhil Bharat Vivekananda Yuva Mahamandal · Account number: 1401000100086612 (Savings) · Bank: Punjab National Bank, M.G. Road, Sealdah, Kolkata 700009 · IFSC: PUNB0140100 · UPI ID: 9433764651m@pnb. The app’s payment page will show the scan-and-pay QR code and will itself ask for the payer’s details, so no separate e-mail is needed when paying through the app.",
     "steps": null,
     "include": null,
     "possible_mistakes": [
      "Transferring money without the covering e-mail.",
      "A cheque made out to a person instead of the organization.",
-     "Omitting the purpose or the PAN number."
+     "Omitting the purpose or the PAN/Aadhaar number."
     ],
     "related": "What annual fee does our unit pay? · Must our unit subscribe to ‘Vivek-Jivan’?"
    },
    "bn": {
     "question": "কেন্দ্রীয় সংগঠনে টাকা কীভাবে পাঠাব?",
     "applies_to": "সব স্তরের কেন্দ্র।",
-    "short_answer": "সব অর্থ ও চাঁদা ব্যাংক ট্রান্সফারে, UPI-তে, অথবা কলকাতায় প্রদেয় “Akhil Bharat Vivekananda Yuva Mahamandal”-এর নামে চেকে পাঠানো যায়। সঙ্গে সঙ্গে একটি ই-মেলে আপনার পুরো নাম, পিন কোড সহ সম্পূর্ণ ঠিকানা, প্যান নম্বর ও টাকা পাঠানোর উদ্দেশ্য জানান – নইলে টাকা হিসাবে তোলা বা রসিদ তৈরি করা যায় না।",
+    "short_answer": "সব অর্থ ও চাঁদা ব্যাংক ট্রান্সফারে, UPI-তে, অথবা কলকাতায় প্রদেয় “Akhil Bharat Vivekananda Yuva Mahamandal”-এর নামে চেকে পাঠানো যায়। সঙ্গে সঙ্গে একটি ই-মেলে আপনার পুরো নাম, সম্পূর্ণ ঠিকানা ও পিন কোড, প্যান বা আধার নম্বর এবং টাকা পাঠানোর উদ্দেশ্য জানান – নইলে টাকা হিসাবে তোলা বা রসিদ তৈরি করা যায় না। এই অ্যাপের মাধ্যমে টাকা পাঠিয়ে পেমেন্ট পাতায় সব তথ্য দিলে আলাদা ই-মেল লাগবে না।",
     "explanation": "অ্যাকাউন্টের নাম: Akhil Bharat Vivekananda Yuva Mahamandal · অ্যাকাউন্ট নম্বর: 1401000100086612 (সেভিংস) · ব্যাংক: পাঞ্জাব ন্যাশনাল ব্যাংক, এম. জি. রোড, শিয়ালদহ, কলকাতা ৭০০০০৯ · IFSC: PUNB0140100 · UPI ID: 9433764651m@pnb। অ্যাপের পেমেন্ট পাতায় ‘স্ক্যান করে পেমেন্ট’-এর QR কোড দেখানো হবে, এবং পাতাটিই প্রেরকের তথ্য চেয়ে নেবে – অ্যাপ থেকে টাকা পাঠালে আলাদা ই-মেল লাগবে না।",
     "steps": null,
     "include": null,
     "possible_mistakes": [
      "ই-মেল না পাঠিয়ে টাকা পাঠানো।",
      "সংগঠনের বদলে কোনো ব্যক্তির নামে চেক কাটা।",
-     "উদ্দেশ্য বা প্যান নম্বর না জানানো।"
+     "উদ্দেশ্য বা প্যান/আধার নম্বর না জানানো।"
     ],
     "related": "বার্ষিক ফি কত? · ‘বিবেক-জীবন’-এর গ্রাহক হওয়া কি আবশ্যিক?"
    },
    "hi": {
     "question": "केंद्रीय संगठन को धन कैसे भेजें?",
     "applies_to": "सभी स्तरों के केंद्र।",
-    "short_answer": "सारा योगदान और चंदा बैंक ट्रांसफ़र से, UPI से, या कोलकाता में देय “Akhil Bharat Vivekananda Yuva Mahamandal” के नाम चेक से भेजा जा सकता है। साथ ही हमेशा एक ई-मेल भेजें, जिसमें अपना पूरा नाम, पिन कोड सहित पूरा पता, अपना पैन नंबर, और भुगतान का उद्देश्य दें – नहीं तो धन का हिसाब नहीं रखा जा सकेगा, न ही रसीद बन सकेगी।",
+    "short_answer": "सारा योगदान और चंदा बैंक ट्रांसफ़र से, UPI से, या कोलकाता में देय “Akhil Bharat Vivekananda Yuva Mahamandal” के नाम चेक से भेजा जा सकता है। साथ ही हमेशा एक ई-मेल भेजें, जिसमें अपना पूरा नाम, पूरा पता और पिन कोड, अपना पैन या आधार नंबर, और भुगतान का उद्देश्य दें – नहीं तो धन का हिसाब नहीं रखा जा सकेगा, न ही रसीद बन सकेगी। यदि आप इस ऐप के माध्यम से भुगतान करके भुगतान पृष्ठ पर सभी विवरण देते हैं, तो अलग से ई-मेल की आवश्यकता नहीं।",
     "explanation": "खाताधारक: Akhil Bharat Vivekananda Yuva Mahamandal · खाता संख्या: 1401000100086612 (बचत खाता) · बैंक: पंजाब नेशनल बैंक, एम. जी. रोड, सियालदह, कोलकाता 700009 · IFSC: PUNB0140100 · UPI ID: 9433764651m@pnb। ऐप के भुगतान पृष्ठ पर ‘स्कैन करके भुगतान करें’ का QR कोड दिखेगा, और वह पृष्ठ स्वयं प्रेषक का विवरण माँग लेगा – ऐप से भुगतान करने पर अलग से ई-मेल की आवश्यकता नहीं।",
     "steps": null,
     "include": null,
     "possible_mistakes": [
      "साथ में ई-मेल भेजे बिना धन स्थानांतरित करना।",
      "संगठन के बजाय किसी व्यक्ति के नाम चेक बनाना।",
-     "उद्देश्य या पैन नंबर न बताना।"
+     "उद्देश्य या पैन/आधार नंबर न बताना।"
     ],
     "related": "हमारे केंद्र को कितनी वार्षिक फ़ीस देनी है? · क्या ‘विवेक-जीवन’ की सदस्यता लेनी अनिवार्य है?"
    },
